@@ -1,0 +1,21 @@
+Direct X-files - by Simon Price
+
+This is a very quick game I made using DirectX7. I made this because I downloaded the X-files theme tune and I really felt that I needed to find a use for it so I made this X-files game.
+
+If you are new to DirectDraw or DirectMusic, this code should be really helpful as it demonstates their basics. The reason I am able to make games like this quickly is because I have reused code from previous games - look at the modules 'ModDX7.bas', 'ModSurfaces.bas' and 'DXmidi.bas' and you will see that I have designed them to just add to any program and they can easily be used.
+
+There is no real aim to the game, just shoot UFO's and dodge the lightning cloud. If your score drops below 0, you loose. UFO's score you points, getting hurt looses points.
+
+Use the left/right arrow keys to move around, press up to shoot your small pistol which strangley shoots circular multi-coloured bullets.
+
+Even if you don't learn anything from this, it's a laugh to look at don't you think? So, if you learn from this or you just found it a laugh, please vote for it on www.planet-source-code.com to show your appreciation.
+
+I also have many more VB games, some by me, some by others, some using DirectX, some don't, most of them better than this one, at my website - www.VBgames.co.uk so if you like games made in Visual Basic I think you will find it interesting.
+
+Disclaimer - I have only just begun to learn DirectX and so the code still contains very little error handling. I will except no responability for anything that happens to your computer because of your use of it.
+
+Copywrite - If you use my code in one of your programs - please give me my desreved credit and please tell me too so that I know what my code is used for.
+
+
+Simon Price
+Si@VBgames.co.uk 
